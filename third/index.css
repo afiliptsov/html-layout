@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.nav{
+background-color: rgb(210, 210, 210);
+    height: 15vh;
+    padding: 1vh
+
+}
+.header-square{
+    height: 95px;
+    width: 95px;
+    background-color: rgb(64, 133, 222);
+    margin-left: 2vh;
+}
+
+.main{
+    background-color: white;
+    height: 25vh;
+    padding: 5vh;
+}
+.main-text{
+    font-size: 3vh;
+}
+
+.line1{
+    background-color: rgb(64, 133, 222);
+    height: 15vh;
+}
+.line2{
+    background-color: rgb(70, 223, 186);
+    height: 15vh;
+}
+.line3{
+    background-color: rgb(175, 229, 123);
+    height: 15vh;
+}
+.line4{
+    background-color: rgb(247, 227, 123);
+    height: 15vh;
+}

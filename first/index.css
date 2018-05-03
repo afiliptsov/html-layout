@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(210,210,210);
+}
+
+.main-body{
+    background-color: rgb(236, 236, 236);
+    min-height: 75vh;
+    margin: 0 15vh 0 15vh;
+}
+
+.nav-bar{
+    background-color: rgb(60, 60, 60);
+    height: 15vh;
+    
+}
+
+.footer{
+    background-color: rgb(31, 31,31);
+    margin: 0 15vh 0 15vh;
+    min-height: 10vh;
+}
